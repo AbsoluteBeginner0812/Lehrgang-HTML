@@ -1,0 +1,23 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+header {
+    background-color: rgb(163, 105, 218);
+    padding: 20px;
+    border-left: 5px solid darkblue;
+}
+
+h1 {
+    color: #69076d;
+}
+
+p {
+    background-color: rgb(205, 233, 233);
+}
+
+ul {
+    font-family: 'Times New Roman', Times, serif;
+}
